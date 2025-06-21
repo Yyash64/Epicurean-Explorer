@@ -1,3 +1,4 @@
+
 # Epicurean Explorer
 
 Welcome to Epicurean Explorer, your ultimate recipe explorer web app! Discover and explore a world of delicious recipes from various regions, enhanced with cutting-edge AI technology for a delightful cooking experience.
@@ -191,5 +192,7 @@ For API Documentation, please refer to
 
 - **Issue:** Similar recipes by process not showing relevant results.
   - **Solution:** Verify your internet connection and ensure that the custom logic for combining API endpoints is functioning correctly. Adjust search parameters if necessary.
+
+
 
 
