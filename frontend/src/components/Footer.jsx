@@ -45,7 +45,7 @@ const Footer = () => {
             }}
           >
             <IoMdMail />
-            <p>utkarshyadav329@gmail.com</p>
+            <p>karanyash2@gmail.com</p>
           </div>
           <p style={{ marginTop: "5px" }}>Follow Us</p>
           <div style={{ display: "flex", marginTop: "8px", gap: "10px" }}>
